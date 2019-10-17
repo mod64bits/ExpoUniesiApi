@@ -1,0 +1,17 @@
+.idea
+*.sqlite3
+venv
+*.pyc
+mod64/__pycache__/
+mod64.pem
+media
+uwsgi.ini
+uwsgi_params
+*.bak
+*.dat
+*.pid
+*.dir
+local_settings.py
+*.db
+*.sqlite
+.vscode/
